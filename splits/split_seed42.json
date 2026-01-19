@@ -1,0 +1,2444 @@
+{
+  "seed": 42,
+  "val_frac": 0.2,
+  "train": [
+    {
+      "id": "BRATS_302",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_302.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_302.nii.gz"
+    },
+    {
+      "id": "BRATS_437",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_437.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_437.nii.gz"
+    },
+    {
+      "id": "BRATS_176",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_176.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_176.nii.gz"
+    },
+    {
+      "id": "BRATS_225",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_225.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_225.nii.gz"
+    },
+    {
+      "id": "BRATS_184",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_184.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_184.nii.gz"
+    },
+    {
+      "id": "BRATS_348",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_348.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_348.nii.gz"
+    },
+    {
+      "id": "BRATS_335",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_335.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_335.nii.gz"
+    },
+    {
+      "id": "BRATS_284",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_284.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_284.nii.gz"
+    },
+    {
+      "id": "BRATS_054",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_054.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_054.nii.gz"
+    },
+    {
+      "id": "BRATS_398",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_398.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_398.nii.gz"
+    },
+    {
+      "id": "BRATS_379",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_379.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_379.nii.gz"
+    },
+    {
+      "id": "BRATS_295",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_295.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_295.nii.gz"
+    },
+    {
+      "id": "BRATS_101",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_101.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_101.nii.gz"
+    },
+    {
+      "id": "BRATS_452",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_452.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_452.nii.gz"
+    },
+    {
+      "id": "BRATS_470",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_470.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_470.nii.gz"
+    },
+    {
+      "id": "BRATS_199",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_199.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_199.nii.gz"
+    },
+    {
+      "id": "BRATS_289",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_289.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_289.nii.gz"
+    },
+    {
+      "id": "BRATS_179",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_179.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_179.nii.gz"
+    },
+    {
+      "id": "BRATS_266",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_266.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_266.nii.gz"
+    },
+    {
+      "id": "BRATS_182",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_182.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_182.nii.gz"
+    },
+    {
+      "id": "BRATS_299",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_299.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_299.nii.gz"
+    },
+    {
+      "id": "BRATS_103",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_103.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_103.nii.gz"
+    },
+    {
+      "id": "BRATS_145",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_145.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_145.nii.gz"
+    },
+    {
+      "id": "BRATS_273",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_273.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_273.nii.gz"
+    },
+    {
+      "id": "BRATS_394",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_394.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_394.nii.gz"
+    },
+    {
+      "id": "BRATS_207",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_207.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_207.nii.gz"
+    },
+    {
+      "id": "BRATS_325",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_325.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_325.nii.gz"
+    },
+    {
+      "id": "BRATS_052",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_052.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_052.nii.gz"
+    },
+    {
+      "id": "BRATS_055",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_055.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_055.nii.gz"
+    },
+    {
+      "id": "BRATS_342",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_342.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_342.nii.gz"
+    },
+    {
+      "id": "BRATS_206",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_206.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_206.nii.gz"
+    },
+    {
+      "id": "BRATS_063",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_063.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_063.nii.gz"
+    },
+    {
+      "id": "BRATS_221",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_221.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_221.nii.gz"
+    },
+    {
+      "id": "BRATS_147",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_147.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_147.nii.gz"
+    },
+    {
+      "id": "BRATS_031",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_031.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_031.nii.gz"
+    },
+    {
+      "id": "BRATS_029",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_029.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_029.nii.gz"
+    },
+    {
+      "id": "BRATS_315",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_315.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_315.nii.gz"
+    },
+    {
+      "id": "BRATS_047",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_047.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_047.nii.gz"
+    },
+    {
+      "id": "BRATS_397",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_397.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_397.nii.gz"
+    },
+    {
+      "id": "BRATS_135",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_135.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_135.nii.gz"
+    },
+    {
+      "id": "BRATS_159",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_159.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_159.nii.gz"
+    },
+    {
+      "id": "BRATS_294",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_294.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_294.nii.gz"
+    },
+    {
+      "id": "BRATS_157",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_157.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_157.nii.gz"
+    },
+    {
+      "id": "BRATS_003",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_003.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_003.nii.gz"
+    },
+    {
+      "id": "BRATS_237",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_237.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_237.nii.gz"
+    },
+    {
+      "id": "BRATS_347",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_347.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_347.nii.gz"
+    },
+    {
+      "id": "BRATS_143",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_143.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_143.nii.gz"
+    },
+    {
+      "id": "BRATS_326",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_326.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_326.nii.gz"
+    },
+    {
+      "id": "BRATS_151",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_151.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_151.nii.gz"
+    },
+    {
+      "id": "BRATS_453",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_453.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_453.nii.gz"
+    },
+    {
+      "id": "BRATS_334",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_334.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_334.nii.gz"
+    },
+    {
+      "id": "BRATS_193",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_193.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_193.nii.gz"
+    },
+    {
+      "id": "BRATS_426",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_426.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_426.nii.gz"
+    },
+    {
+      "id": "BRATS_293",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_293.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_293.nii.gz"
+    },
+    {
+      "id": "BRATS_195",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_195.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_195.nii.gz"
+    },
+    {
+      "id": "BRATS_160",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_160.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_160.nii.gz"
+    },
+    {
+      "id": "BRATS_475",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_475.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_475.nii.gz"
+    },
+    {
+      "id": "BRATS_163",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_163.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_163.nii.gz"
+    },
+    {
+      "id": "BRATS_252",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_252.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_252.nii.gz"
+    },
+    {
+      "id": "BRATS_088",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_088.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_088.nii.gz"
+    },
+    {
+      "id": "BRATS_287",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_287.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_287.nii.gz"
+    },
+    {
+      "id": "BRATS_390",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_390.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_390.nii.gz"
+    },
+    {
+      "id": "BRATS_110",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_110.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_110.nii.gz"
+    },
+    {
+      "id": "BRATS_339",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_339.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_339.nii.gz"
+    },
+    {
+      "id": "BRATS_401",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_401.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_401.nii.gz"
+    },
+    {
+      "id": "BRATS_080",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_080.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_080.nii.gz"
+    },
+    {
+      "id": "BRATS_065",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_065.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_065.nii.gz"
+    },
+    {
+      "id": "BRATS_034",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_034.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_034.nii.gz"
+    },
+    {
+      "id": "BRATS_438",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_438.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_438.nii.gz"
+    },
+    {
+      "id": "BRATS_174",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_174.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_174.nii.gz"
+    },
+    {
+      "id": "BRATS_286",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_286.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_286.nii.gz"
+    },
+    {
+      "id": "BRATS_350",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_350.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_350.nii.gz"
+    },
+    {
+      "id": "BRATS_033",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_033.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_033.nii.gz"
+    },
+    {
+      "id": "BRATS_129",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_129.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_129.nii.gz"
+    },
+    {
+      "id": "BRATS_181",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_181.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_181.nii.gz"
+    },
+    {
+      "id": "BRATS_329",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_329.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_329.nii.gz"
+    },
+    {
+      "id": "BRATS_395",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_395.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_395.nii.gz"
+    },
+    {
+      "id": "BRATS_177",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_177.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_177.nii.gz"
+    },
+    {
+      "id": "BRATS_134",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_134.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_134.nii.gz"
+    },
+    {
+      "id": "BRATS_123",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_123.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_123.nii.gz"
+    },
+    {
+      "id": "BRATS_436",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_436.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_436.nii.gz"
+    },
+    {
+      "id": "BRATS_376",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_376.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_376.nii.gz"
+    },
+    {
+      "id": "BRATS_316",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_316.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_316.nii.gz"
+    },
+    {
+      "id": "BRATS_465",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_465.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_465.nii.gz"
+    },
+    {
+      "id": "BRATS_272",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_272.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_272.nii.gz"
+    },
+    {
+      "id": "BRATS_413",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_413.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_413.nii.gz"
+    },
+    {
+      "id": "BRATS_075",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_075.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_075.nii.gz"
+    },
+    {
+      "id": "BRATS_264",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_264.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_264.nii.gz"
+    },
+    {
+      "id": "BRATS_108",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_108.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_108.nii.gz"
+    },
+    {
+      "id": "BRATS_004",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_004.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_004.nii.gz"
+    },
+    {
+      "id": "BRATS_021",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_021.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_021.nii.gz"
+    },
+    {
+      "id": "BRATS_192",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_192.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_192.nii.gz"
+    },
+    {
+      "id": "BRATS_149",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_149.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_149.nii.gz"
+    },
+    {
+      "id": "BRATS_444",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_444.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_444.nii.gz"
+    },
+    {
+      "id": "BRATS_403",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_403.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_403.nii.gz"
+    },
+    {
+      "id": "BRATS_301",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_301.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_301.nii.gz"
+    },
+    {
+      "id": "BRATS_476",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_476.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_476.nii.gz"
+    },
+    {
+      "id": "BRATS_361",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_361.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_361.nii.gz"
+    },
+    {
+      "id": "BRATS_190",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_190.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_190.nii.gz"
+    },
+    {
+      "id": "BRATS_185",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_185.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_185.nii.gz"
+    },
+    {
+      "id": "BRATS_222",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_222.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_222.nii.gz"
+    },
+    {
+      "id": "BRATS_310",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_310.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_310.nii.gz"
+    },
+    {
+      "id": "BRATS_243",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_243.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_243.nii.gz"
+    },
+    {
+      "id": "BRATS_116",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_116.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_116.nii.gz"
+    },
+    {
+      "id": "BRATS_454",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_454.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_454.nii.gz"
+    },
+    {
+      "id": "BRATS_223",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_223.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_223.nii.gz"
+    },
+    {
+      "id": "BRATS_086",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_086.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_086.nii.gz"
+    },
+    {
+      "id": "BRATS_415",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_415.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_415.nii.gz"
+    },
+    {
+      "id": "BRATS_130",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_130.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_130.nii.gz"
+    },
+    {
+      "id": "BRATS_292",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_292.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_292.nii.gz"
+    },
+    {
+      "id": "BRATS_393",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_393.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_393.nii.gz"
+    },
+    {
+      "id": "BRATS_010",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_010.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_010.nii.gz"
+    },
+    {
+      "id": "BRATS_461",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_461.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_461.nii.gz"
+    },
+    {
+      "id": "BRATS_188",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_188.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_188.nii.gz"
+    },
+    {
+      "id": "BRATS_015",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_015.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_015.nii.gz"
+    },
+    {
+      "id": "BRATS_049",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_049.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_049.nii.gz"
+    },
+    {
+      "id": "BRATS_304",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_304.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_304.nii.gz"
+    },
+    {
+      "id": "BRATS_235",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_235.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_235.nii.gz"
+    },
+    {
+      "id": "BRATS_341",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_341.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_341.nii.gz"
+    },
+    {
+      "id": "BRATS_307",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_307.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_307.nii.gz"
+    },
+    {
+      "id": "BRATS_467",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_467.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_467.nii.gz"
+    },
+    {
+      "id": "BRATS_059",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_059.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_059.nii.gz"
+    },
+    {
+      "id": "BRATS_203",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_203.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_203.nii.gz"
+    },
+    {
+      "id": "BRATS_180",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_180.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_180.nii.gz"
+    },
+    {
+      "id": "BRATS_162",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_162.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_162.nii.gz"
+    },
+    {
+      "id": "BRATS_354",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_354.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_354.nii.gz"
+    },
+    {
+      "id": "BRATS_428",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_428.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_428.nii.gz"
+    },
+    {
+      "id": "BRATS_118",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_118.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_118.nii.gz"
+    },
+    {
+      "id": "BRATS_208",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_208.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_208.nii.gz"
+    },
+    {
+      "id": "BRATS_128",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_128.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_128.nii.gz"
+    },
+    {
+      "id": "BRATS_336",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_336.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_336.nii.gz"
+    },
+    {
+      "id": "BRATS_423",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_423.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_423.nii.gz"
+    },
+    {
+      "id": "BRATS_205",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_205.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_205.nii.gz"
+    },
+    {
+      "id": "BRATS_042",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_042.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_042.nii.gz"
+    },
+    {
+      "id": "BRATS_204",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_204.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_204.nii.gz"
+    },
+    {
+      "id": "BRATS_210",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_210.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_210.nii.gz"
+    },
+    {
+      "id": "BRATS_421",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_421.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_421.nii.gz"
+    },
+    {
+      "id": "BRATS_245",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_245.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_245.nii.gz"
+    },
+    {
+      "id": "BRATS_066",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_066.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_066.nii.gz"
+    },
+    {
+      "id": "BRATS_097",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_097.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_097.nii.gz"
+    },
+    {
+      "id": "BRATS_290",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_290.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_290.nii.gz"
+    },
+    {
+      "id": "BRATS_027",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_027.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_027.nii.gz"
+    },
+    {
+      "id": "BRATS_070",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_070.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_070.nii.gz"
+    },
+    {
+      "id": "BRATS_092",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_092.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_092.nii.gz"
+    },
+    {
+      "id": "BRATS_448",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_448.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_448.nii.gz"
+    },
+    {
+      "id": "BRATS_387",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_387.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_387.nii.gz"
+    },
+    {
+      "id": "BRATS_313",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_313.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_313.nii.gz"
+    },
+    {
+      "id": "BRATS_233",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_233.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_233.nii.gz"
+    },
+    {
+      "id": "BRATS_471",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_471.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_471.nii.gz"
+    },
+    {
+      "id": "BRATS_081",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_081.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_081.nii.gz"
+    },
+    {
+      "id": "BRATS_114",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_114.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_114.nii.gz"
+    },
+    {
+      "id": "BRATS_480",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_480.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_480.nii.gz"
+    },
+    {
+      "id": "BRATS_060",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_060.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_060.nii.gz"
+    },
+    {
+      "id": "BRATS_095",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_095.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_095.nii.gz"
+    },
+    {
+      "id": "BRATS_440",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_440.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_440.nii.gz"
+    },
+    {
+      "id": "BRATS_484",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_484.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_484.nii.gz"
+    },
+    {
+      "id": "BRATS_265",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_265.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_265.nii.gz"
+    },
+    {
+      "id": "BRATS_020",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_020.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_020.nii.gz"
+    },
+    {
+      "id": "BRATS_402",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_402.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_402.nii.gz"
+    },
+    {
+      "id": "BRATS_132",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_132.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_132.nii.gz"
+    },
+    {
+      "id": "BRATS_087",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_087.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_087.nii.gz"
+    },
+    {
+      "id": "BRATS_358",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_358.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_358.nii.gz"
+    },
+    {
+      "id": "BRATS_171",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_171.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_171.nii.gz"
+    },
+    {
+      "id": "BRATS_366",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_366.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_366.nii.gz"
+    },
+    {
+      "id": "BRATS_399",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_399.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_399.nii.gz"
+    },
+    {
+      "id": "BRATS_314",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_314.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_314.nii.gz"
+    },
+    {
+      "id": "BRATS_432",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_432.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_432.nii.gz"
+    },
+    {
+      "id": "BRATS_122",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_122.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_122.nii.gz"
+    },
+    {
+      "id": "BRATS_085",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_085.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_085.nii.gz"
+    },
+    {
+      "id": "BRATS_450",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_450.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_450.nii.gz"
+    },
+    {
+      "id": "BRATS_166",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_166.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_166.nii.gz"
+    },
+    {
+      "id": "BRATS_125",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_125.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_125.nii.gz"
+    },
+    {
+      "id": "BRATS_389",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_389.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_389.nii.gz"
+    },
+    {
+      "id": "BRATS_113",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_113.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_113.nii.gz"
+    },
+    {
+      "id": "BRATS_012",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_012.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_012.nii.gz"
+    },
+    {
+      "id": "BRATS_246",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_246.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_246.nii.gz"
+    },
+    {
+      "id": "BRATS_324",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_324.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_324.nii.gz"
+    },
+    {
+      "id": "BRATS_455",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_455.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_455.nii.gz"
+    },
+    {
+      "id": "BRATS_346",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_346.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_346.nii.gz"
+    },
+    {
+      "id": "BRATS_409",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_409.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_409.nii.gz"
+    },
+    {
+      "id": "BRATS_317",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_317.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_317.nii.gz"
+    },
+    {
+      "id": "BRATS_433",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_433.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_433.nii.gz"
+    },
+    {
+      "id": "BRATS_076",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_076.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_076.nii.gz"
+    },
+    {
+      "id": "BRATS_175",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_175.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_175.nii.gz"
+    },
+    {
+      "id": "BRATS_023",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_023.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_023.nii.gz"
+    },
+    {
+      "id": "BRATS_140",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_140.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_140.nii.gz"
+    },
+    {
+      "id": "BRATS_240",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_240.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_240.nii.gz"
+    },
+    {
+      "id": "BRATS_057",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_057.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_057.nii.gz"
+    },
+    {
+      "id": "BRATS_016",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_016.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_016.nii.gz"
+    },
+    {
+      "id": "BRATS_296",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_296.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_296.nii.gz"
+    },
+    {
+      "id": "BRATS_283",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_283.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_283.nii.gz"
+    },
+    {
+      "id": "BRATS_197",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_197.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_197.nii.gz"
+    },
+    {
+      "id": "BRATS_230",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_230.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_230.nii.gz"
+    },
+    {
+      "id": "BRATS_220",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_220.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_220.nii.gz"
+    },
+    {
+      "id": "BRATS_224",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_224.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_224.nii.gz"
+    },
+    {
+      "id": "BRATS_006",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_006.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_006.nii.gz"
+    },
+    {
+      "id": "BRATS_071",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_071.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_071.nii.gz"
+    },
+    {
+      "id": "BRATS_214",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_214.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_214.nii.gz"
+    },
+    {
+      "id": "BRATS_481",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_481.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_481.nii.gz"
+    },
+    {
+      "id": "BRATS_328",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_328.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_328.nii.gz"
+    },
+    {
+      "id": "BRATS_457",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_457.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_457.nii.gz"
+    },
+    {
+      "id": "BRATS_340",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_340.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_340.nii.gz"
+    },
+    {
+      "id": "BRATS_094",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_094.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_094.nii.gz"
+    },
+    {
+      "id": "BRATS_107",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_107.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_107.nii.gz"
+    },
+    {
+      "id": "BRATS_083",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_083.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_083.nii.gz"
+    },
+    {
+      "id": "BRATS_429",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_429.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_429.nii.gz"
+    },
+    {
+      "id": "BRATS_360",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_360.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_360.nii.gz"
+    },
+    {
+      "id": "BRATS_084",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_084.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_084.nii.gz"
+    },
+    {
+      "id": "BRATS_416",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_416.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_416.nii.gz"
+    },
+    {
+      "id": "BRATS_074",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_074.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_074.nii.gz"
+    },
+    {
+      "id": "BRATS_032",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_032.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_032.nii.gz"
+    },
+    {
+      "id": "BRATS_308",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_308.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_308.nii.gz"
+    },
+    {
+      "id": "BRATS_051",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_051.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_051.nii.gz"
+    },
+    {
+      "id": "BRATS_018",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_018.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_018.nii.gz"
+    },
+    {
+      "id": "BRATS_306",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_306.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_306.nii.gz"
+    },
+    {
+      "id": "BRATS_478",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_478.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_478.nii.gz"
+    },
+    {
+      "id": "BRATS_164",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_164.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_164.nii.gz"
+    },
+    {
+      "id": "BRATS_062",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_062.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_062.nii.gz"
+    },
+    {
+      "id": "BRATS_038",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_038.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_038.nii.gz"
+    },
+    {
+      "id": "BRATS_090",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_090.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_090.nii.gz"
+    },
+    {
+      "id": "BRATS_281",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_281.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_281.nii.gz"
+    },
+    {
+      "id": "BRATS_028",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_028.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_028.nii.gz"
+    },
+    {
+      "id": "BRATS_173",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_173.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_173.nii.gz"
+    },
+    {
+      "id": "BRATS_178",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_178.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_178.nii.gz"
+    },
+    {
+      "id": "BRATS_218",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_218.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_218.nii.gz"
+    },
+    {
+      "id": "BRATS_231",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_231.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_231.nii.gz"
+    },
+    {
+      "id": "BRATS_011",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_011.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_011.nii.gz"
+    },
+    {
+      "id": "BRATS_411",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_411.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_411.nii.gz"
+    },
+    {
+      "id": "BRATS_154",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_154.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_154.nii.gz"
+    },
+    {
+      "id": "BRATS_309",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_309.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_309.nii.gz"
+    },
+    {
+      "id": "BRATS_091",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_091.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_091.nii.gz"
+    },
+    {
+      "id": "BRATS_191",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_191.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_191.nii.gz"
+    },
+    {
+      "id": "BRATS_099",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_099.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_099.nii.gz"
+    },
+    {
+      "id": "BRATS_215",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_215.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_215.nii.gz"
+    },
+    {
+      "id": "BRATS_036",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_036.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_036.nii.gz"
+    },
+    {
+      "id": "BRATS_136",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_136.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_136.nii.gz"
+    },
+    {
+      "id": "BRATS_138",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_138.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_138.nii.gz"
+    },
+    {
+      "id": "BRATS_019",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_019.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_019.nii.gz"
+    },
+    {
+      "id": "BRATS_105",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_105.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_105.nii.gz"
+    },
+    {
+      "id": "BRATS_410",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_410.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_410.nii.gz"
+    },
+    {
+      "id": "BRATS_288",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_288.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_288.nii.gz"
+    },
+    {
+      "id": "BRATS_079",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_079.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_079.nii.gz"
+    },
+    {
+      "id": "BRATS_385",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_385.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_385.nii.gz"
+    },
+    {
+      "id": "BRATS_298",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_298.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_298.nii.gz"
+    },
+    {
+      "id": "BRATS_262",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_262.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_262.nii.gz"
+    },
+    {
+      "id": "BRATS_061",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_061.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_061.nii.gz"
+    },
+    {
+      "id": "BRATS_338",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_338.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_338.nii.gz"
+    },
+    {
+      "id": "BRATS_427",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_427.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_427.nii.gz"
+    },
+    {
+      "id": "BRATS_001",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_001.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_001.nii.gz"
+    },
+    {
+      "id": "BRATS_276",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_276.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_276.nii.gz"
+    },
+    {
+      "id": "BRATS_156",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_156.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_156.nii.gz"
+    },
+    {
+      "id": "BRATS_323",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_323.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_323.nii.gz"
+    },
+    {
+      "id": "BRATS_431",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_431.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_431.nii.gz"
+    },
+    {
+      "id": "BRATS_072",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_072.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_072.nii.gz"
+    },
+    {
+      "id": "BRATS_344",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_344.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_344.nii.gz"
+    },
+    {
+      "id": "BRATS_161",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_161.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_161.nii.gz"
+    },
+    {
+      "id": "BRATS_386",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_386.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_386.nii.gz"
+    },
+    {
+      "id": "BRATS_146",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_146.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_146.nii.gz"
+    },
+    {
+      "id": "BRATS_274",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_274.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_274.nii.gz"
+    },
+    {
+      "id": "BRATS_414",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_414.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_414.nii.gz"
+    },
+    {
+      "id": "BRATS_104",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_104.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_104.nii.gz"
+    },
+    {
+      "id": "BRATS_378",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_378.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_378.nii.gz"
+    },
+    {
+      "id": "BRATS_030",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_030.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_030.nii.gz"
+    },
+    {
+      "id": "BRATS_419",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_419.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_419.nii.gz"
+    },
+    {
+      "id": "BRATS_364",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_364.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_364.nii.gz"
+    },
+    {
+      "id": "BRATS_351",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_351.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_351.nii.gz"
+    },
+    {
+      "id": "BRATS_353",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_353.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_353.nii.gz"
+    },
+    {
+      "id": "BRATS_048",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_048.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_048.nii.gz"
+    },
+    {
+      "id": "BRATS_469",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_469.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_469.nii.gz"
+    },
+    {
+      "id": "BRATS_404",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_404.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_404.nii.gz"
+    },
+    {
+      "id": "BRATS_082",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_082.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_082.nii.gz"
+    },
+    {
+      "id": "BRATS_189",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_189.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_189.nii.gz"
+    },
+    {
+      "id": "BRATS_187",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_187.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_187.nii.gz"
+    },
+    {
+      "id": "BRATS_228",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_228.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_228.nii.gz"
+    },
+    {
+      "id": "BRATS_069",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_069.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_069.nii.gz"
+    },
+    {
+      "id": "BRATS_372",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_372.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_372.nii.gz"
+    },
+    {
+      "id": "BRATS_331",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_331.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_331.nii.gz"
+    },
+    {
+      "id": "BRATS_014",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_014.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_014.nii.gz"
+    },
+    {
+      "id": "BRATS_227",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_227.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_227.nii.gz"
+    },
+    {
+      "id": "BRATS_382",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_382.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_382.nii.gz"
+    },
+    {
+      "id": "BRATS_254",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_254.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_254.nii.gz"
+    },
+    {
+      "id": "BRATS_137",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_137.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_137.nii.gz"
+    },
+    {
+      "id": "BRATS_383",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_383.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_383.nii.gz"
+    },
+    {
+      "id": "BRATS_244",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_244.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_244.nii.gz"
+    },
+    {
+      "id": "BRATS_002",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_002.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_002.nii.gz"
+    },
+    {
+      "id": "BRATS_194",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_194.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_194.nii.gz"
+    },
+    {
+      "id": "BRATS_115",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_115.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_115.nii.gz"
+    },
+    {
+      "id": "BRATS_229",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_229.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_229.nii.gz"
+    },
+    {
+      "id": "BRATS_250",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_250.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_250.nii.gz"
+    },
+    {
+      "id": "BRATS_384",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_384.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_384.nii.gz"
+    },
+    {
+      "id": "BRATS_458",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_458.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_458.nii.gz"
+    },
+    {
+      "id": "BRATS_169",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_169.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_169.nii.gz"
+    },
+    {
+      "id": "BRATS_311",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_311.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_311.nii.gz"
+    },
+    {
+      "id": "BRATS_148",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_148.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_148.nii.gz"
+    },
+    {
+      "id": "BRATS_106",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_106.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_106.nii.gz"
+    },
+    {
+      "id": "BRATS_279",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_279.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_279.nii.gz"
+    },
+    {
+      "id": "BRATS_212",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_212.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_212.nii.gz"
+    },
+    {
+      "id": "BRATS_183",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_183.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_183.nii.gz"
+    },
+    {
+      "id": "BRATS_007",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_007.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_007.nii.gz"
+    },
+    {
+      "id": "BRATS_249",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_249.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_249.nii.gz"
+    },
+    {
+      "id": "BRATS_446",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_446.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_446.nii.gz"
+    },
+    {
+      "id": "BRATS_392",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_392.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_392.nii.gz"
+    },
+    {
+      "id": "BRATS_155",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_155.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_155.nii.gz"
+    },
+    {
+      "id": "BRATS_024",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_024.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_024.nii.gz"
+    },
+    {
+      "id": "BRATS_117",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_117.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_117.nii.gz"
+    },
+    {
+      "id": "BRATS_256",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_256.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_256.nii.gz"
+    },
+    {
+      "id": "BRATS_045",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_045.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_045.nii.gz"
+    },
+    {
+      "id": "BRATS_127",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_127.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_127.nii.gz"
+    },
+    {
+      "id": "BRATS_337",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_337.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_337.nii.gz"
+    },
+    {
+      "id": "BRATS_089",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_089.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_089.nii.gz"
+    },
+    {
+      "id": "BRATS_305",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_305.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_305.nii.gz"
+    },
+    {
+      "id": "BRATS_241",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_241.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_241.nii.gz"
+    },
+    {
+      "id": "BRATS_253",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_253.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_253.nii.gz"
+    },
+    {
+      "id": "BRATS_041",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_041.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_041.nii.gz"
+    },
+    {
+      "id": "BRATS_447",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_447.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_447.nii.gz"
+    },
+    {
+      "id": "BRATS_456",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_456.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_456.nii.gz"
+    },
+    {
+      "id": "BRATS_349",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_349.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_349.nii.gz"
+    },
+    {
+      "id": "BRATS_321",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_321.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_321.nii.gz"
+    },
+    {
+      "id": "BRATS_242",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_242.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_242.nii.gz"
+    },
+    {
+      "id": "BRATS_247",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_247.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_247.nii.gz"
+    },
+    {
+      "id": "BRATS_198",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_198.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_198.nii.gz"
+    },
+    {
+      "id": "BRATS_150",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_150.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_150.nii.gz"
+    },
+    {
+      "id": "BRATS_357",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_357.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_357.nii.gz"
+    },
+    {
+      "id": "BRATS_040",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_040.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_040.nii.gz"
+    },
+    {
+      "id": "BRATS_472",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_472.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_472.nii.gz"
+    },
+    {
+      "id": "BRATS_380",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_380.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_380.nii.gz"
+    },
+    {
+      "id": "BRATS_362",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_362.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_362.nii.gz"
+    },
+    {
+      "id": "BRATS_322",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_322.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_322.nii.gz"
+    },
+    {
+      "id": "BRATS_026",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_026.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_026.nii.gz"
+    },
+    {
+      "id": "BRATS_056",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_056.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_056.nii.gz"
+    },
+    {
+      "id": "BRATS_462",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_462.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_462.nii.gz"
+    },
+    {
+      "id": "BRATS_451",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_451.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_451.nii.gz"
+    },
+    {
+      "id": "BRATS_312",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_312.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_312.nii.gz"
+    },
+    {
+      "id": "BRATS_142",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_142.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_142.nii.gz"
+    },
+    {
+      "id": "BRATS_257",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_257.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_257.nii.gz"
+    },
+    {
+      "id": "BRATS_356",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_356.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_356.nii.gz"
+    },
+    {
+      "id": "BRATS_468",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_468.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_468.nii.gz"
+    },
+    {
+      "id": "BRATS_363",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_363.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_363.nii.gz"
+    },
+    {
+      "id": "BRATS_417",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_417.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_417.nii.gz"
+    },
+    {
+      "id": "BRATS_251",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_251.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_251.nii.gz"
+    },
+    {
+      "id": "BRATS_482",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_482.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_482.nii.gz"
+    },
+    {
+      "id": "BRATS_112",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_112.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_112.nii.gz"
+    },
+    {
+      "id": "BRATS_263",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_263.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_263.nii.gz"
+    },
+    {
+      "id": "BRATS_464",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_464.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_464.nii.gz"
+    },
+    {
+      "id": "BRATS_022",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_022.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_022.nii.gz"
+    },
+    {
+      "id": "BRATS_064",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_064.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_064.nii.gz"
+    },
+    {
+      "id": "BRATS_391",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_391.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_391.nii.gz"
+    },
+    {
+      "id": "BRATS_258",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_258.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_258.nii.gz"
+    },
+    {
+      "id": "BRATS_449",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_449.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_449.nii.gz"
+    },
+    {
+      "id": "BRATS_100",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_100.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_100.nii.gz"
+    },
+    {
+      "id": "BRATS_291",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_291.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_291.nii.gz"
+    },
+    {
+      "id": "BRATS_044",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_044.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_044.nii.gz"
+    },
+    {
+      "id": "BRATS_439",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_439.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_439.nii.gz"
+    },
+    {
+      "id": "BRATS_025",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_025.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_025.nii.gz"
+    },
+    {
+      "id": "BRATS_463",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_463.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_463.nii.gz"
+    },
+    {
+      "id": "BRATS_202",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_202.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_202.nii.gz"
+    },
+    {
+      "id": "BRATS_248",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_248.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_248.nii.gz"
+    },
+    {
+      "id": "BRATS_141",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_141.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_141.nii.gz"
+    },
+    {
+      "id": "BRATS_209",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_209.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_209.nii.gz"
+    },
+    {
+      "id": "BRATS_153",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_153.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_153.nii.gz"
+    },
+    {
+      "id": "BRATS_267",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_267.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_267.nii.gz"
+    },
+    {
+      "id": "BRATS_186",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_186.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_186.nii.gz"
+    },
+    {
+      "id": "BRATS_369",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_369.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_369.nii.gz"
+    },
+    {
+      "id": "BRATS_333",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_333.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_333.nii.gz"
+    },
+    {
+      "id": "BRATS_285",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_285.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_285.nii.gz"
+    },
+    {
+      "id": "BRATS_412",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_412.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_412.nii.gz"
+    },
+    {
+      "id": "BRATS_332",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_332.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_332.nii.gz"
+    },
+    {
+      "id": "BRATS_388",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_388.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_388.nii.gz"
+    },
+    {
+      "id": "BRATS_277",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_277.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_277.nii.gz"
+    },
+    {
+      "id": "BRATS_377",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_377.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_377.nii.gz"
+    },
+    {
+      "id": "BRATS_430",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_430.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_430.nii.gz"
+    },
+    {
+      "id": "BRATS_268",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_268.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_268.nii.gz"
+    },
+    {
+      "id": "BRATS_121",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_121.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_121.nii.gz"
+    },
+    {
+      "id": "BRATS_352",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_352.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_352.nii.gz"
+    },
+    {
+      "id": "BRATS_260",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_260.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_260.nii.gz"
+    },
+    {
+      "id": "BRATS_327",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_327.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_327.nii.gz"
+    },
+    {
+      "id": "BRATS_165",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_165.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_165.nii.gz"
+    },
+    {
+      "id": "BRATS_009",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_009.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_009.nii.gz"
+    },
+    {
+      "id": "BRATS_213",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_213.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_213.nii.gz"
+    },
+    {
+      "id": "BRATS_152",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_152.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_152.nii.gz"
+    },
+    {
+      "id": "BRATS_232",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_232.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_232.nii.gz"
+    },
+    {
+      "id": "BRATS_320",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_320.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_320.nii.gz"
+    },
+    {
+      "id": "BRATS_282",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_282.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_282.nii.gz"
+    },
+    {
+      "id": "BRATS_370",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_370.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_370.nii.gz"
+    },
+    {
+      "id": "BRATS_269",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_269.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_269.nii.gz"
+    },
+    {
+      "id": "BRATS_005",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_005.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_005.nii.gz"
+    },
+    {
+      "id": "BRATS_374",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_374.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_374.nii.gz"
+    }
+  ],
+  "val": [
+    {
+      "id": "BRATS_201",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_201.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_201.nii.gz"
+    },
+    {
+      "id": "BRATS_093",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_093.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_093.nii.gz"
+    },
+    {
+      "id": "BRATS_050",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_050.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_050.nii.gz"
+    },
+    {
+      "id": "BRATS_396",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_396.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_396.nii.gz"
+    },
+    {
+      "id": "BRATS_158",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_158.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_158.nii.gz"
+    },
+    {
+      "id": "BRATS_375",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_375.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_375.nii.gz"
+    },
+    {
+      "id": "BRATS_226",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_226.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_226.nii.gz"
+    },
+    {
+      "id": "BRATS_236",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_236.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_236.nii.gz"
+    },
+    {
+      "id": "BRATS_406",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_406.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_406.nii.gz"
+    },
+    {
+      "id": "BRATS_111",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_111.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_111.nii.gz"
+    },
+    {
+      "id": "BRATS_318",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_318.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_318.nii.gz"
+    },
+    {
+      "id": "BRATS_046",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_046.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_046.nii.gz"
+    },
+    {
+      "id": "BRATS_013",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_013.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_013.nii.gz"
+    },
+    {
+      "id": "BRATS_035",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_035.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_035.nii.gz"
+    },
+    {
+      "id": "BRATS_407",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_407.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_407.nii.gz"
+    },
+    {
+      "id": "BRATS_359",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_359.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_359.nii.gz"
+    },
+    {
+      "id": "BRATS_474",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_474.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_474.nii.gz"
+    },
+    {
+      "id": "BRATS_037",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_037.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_037.nii.gz"
+    },
+    {
+      "id": "BRATS_418",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_418.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_418.nii.gz"
+    },
+    {
+      "id": "BRATS_234",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_234.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_234.nii.gz"
+    },
+    {
+      "id": "BRATS_096",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_096.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_096.nii.gz"
+    },
+    {
+      "id": "BRATS_441",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_441.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_441.nii.gz"
+    },
+    {
+      "id": "BRATS_365",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_365.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_365.nii.gz"
+    },
+    {
+      "id": "BRATS_139",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_139.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_139.nii.gz"
+    },
+    {
+      "id": "BRATS_473",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_473.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_473.nii.gz"
+    },
+    {
+      "id": "BRATS_017",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_017.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_017.nii.gz"
+    },
+    {
+      "id": "BRATS_216",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_216.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_216.nii.gz"
+    },
+    {
+      "id": "BRATS_239",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_239.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_239.nii.gz"
+    },
+    {
+      "id": "BRATS_008",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_008.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_008.nii.gz"
+    },
+    {
+      "id": "BRATS_435",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_435.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_435.nii.gz"
+    },
+    {
+      "id": "BRATS_345",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_345.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_345.nii.gz"
+    },
+    {
+      "id": "BRATS_078",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_078.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_078.nii.gz"
+    },
+    {
+      "id": "BRATS_098",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_098.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_098.nii.gz"
+    },
+    {
+      "id": "BRATS_420",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_420.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_420.nii.gz"
+    },
+    {
+      "id": "BRATS_067",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_067.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_067.nii.gz"
+    },
+    {
+      "id": "BRATS_144",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_144.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_144.nii.gz"
+    },
+    {
+      "id": "BRATS_077",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_077.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_077.nii.gz"
+    },
+    {
+      "id": "BRATS_405",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_405.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_405.nii.gz"
+    },
+    {
+      "id": "BRATS_443",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_443.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_443.nii.gz"
+    },
+    {
+      "id": "BRATS_053",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_053.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_053.nii.gz"
+    },
+    {
+      "id": "BRATS_270",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_270.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_270.nii.gz"
+    },
+    {
+      "id": "BRATS_373",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_373.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_373.nii.gz"
+    },
+    {
+      "id": "BRATS_355",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_355.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_355.nii.gz"
+    },
+    {
+      "id": "BRATS_303",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_303.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_303.nii.gz"
+    },
+    {
+      "id": "BRATS_102",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_102.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_102.nii.gz"
+    },
+    {
+      "id": "BRATS_058",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_058.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_058.nii.gz"
+    },
+    {
+      "id": "BRATS_255",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_255.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_255.nii.gz"
+    },
+    {
+      "id": "BRATS_168",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_168.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_168.nii.gz"
+    },
+    {
+      "id": "BRATS_408",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_408.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_408.nii.gz"
+    },
+    {
+      "id": "BRATS_422",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_422.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_422.nii.gz"
+    },
+    {
+      "id": "BRATS_343",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_343.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_343.nii.gz"
+    },
+    {
+      "id": "BRATS_120",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_120.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_120.nii.gz"
+    },
+    {
+      "id": "BRATS_131",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_131.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_131.nii.gz"
+    },
+    {
+      "id": "BRATS_133",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_133.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_133.nii.gz"
+    },
+    {
+      "id": "BRATS_466",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_466.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_466.nii.gz"
+    },
+    {
+      "id": "BRATS_109",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_109.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_109.nii.gz"
+    },
+    {
+      "id": "BRATS_172",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_172.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_172.nii.gz"
+    },
+    {
+      "id": "BRATS_068",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_068.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_068.nii.gz"
+    },
+    {
+      "id": "BRATS_039",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_039.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_039.nii.gz"
+    },
+    {
+      "id": "BRATS_319",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_319.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_319.nii.gz"
+    },
+    {
+      "id": "BRATS_300",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_300.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_300.nii.gz"
+    },
+    {
+      "id": "BRATS_442",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_442.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_442.nii.gz"
+    },
+    {
+      "id": "BRATS_280",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_280.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_280.nii.gz"
+    },
+    {
+      "id": "BRATS_219",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_219.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_219.nii.gz"
+    },
+    {
+      "id": "BRATS_459",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_459.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_459.nii.gz"
+    },
+    {
+      "id": "BRATS_367",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_367.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_367.nii.gz"
+    },
+    {
+      "id": "BRATS_261",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_261.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_261.nii.gz"
+    },
+    {
+      "id": "BRATS_043",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_043.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_043.nii.gz"
+    },
+    {
+      "id": "BRATS_400",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_400.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_400.nii.gz"
+    },
+    {
+      "id": "BRATS_368",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_368.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_368.nii.gz"
+    },
+    {
+      "id": "BRATS_217",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_217.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_217.nii.gz"
+    },
+    {
+      "id": "BRATS_371",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_371.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_371.nii.gz"
+    },
+    {
+      "id": "BRATS_271",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_271.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_271.nii.gz"
+    },
+    {
+      "id": "BRATS_278",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_278.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_278.nii.gz"
+    },
+    {
+      "id": "BRATS_238",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_238.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_238.nii.gz"
+    },
+    {
+      "id": "BRATS_124",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_124.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_124.nii.gz"
+    },
+    {
+      "id": "BRATS_445",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_445.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_445.nii.gz"
+    },
+    {
+      "id": "BRATS_434",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_434.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_434.nii.gz"
+    },
+    {
+      "id": "BRATS_297",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_297.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_297.nii.gz"
+    },
+    {
+      "id": "BRATS_073",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_073.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_073.nii.gz"
+    },
+    {
+      "id": "BRATS_196",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_196.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_196.nii.gz"
+    },
+    {
+      "id": "BRATS_275",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_275.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_275.nii.gz"
+    },
+    {
+      "id": "BRATS_211",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_211.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_211.nii.gz"
+    },
+    {
+      "id": "BRATS_200",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_200.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_200.nii.gz"
+    },
+    {
+      "id": "BRATS_460",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_460.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_460.nii.gz"
+    },
+    {
+      "id": "BRATS_330",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_330.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_330.nii.gz"
+    },
+    {
+      "id": "BRATS_119",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_119.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_119.nii.gz"
+    },
+    {
+      "id": "BRATS_170",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_170.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_170.nii.gz"
+    },
+    {
+      "id": "BRATS_381",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_381.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_381.nii.gz"
+    },
+    {
+      "id": "BRATS_425",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_425.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_425.nii.gz"
+    },
+    {
+      "id": "BRATS_126",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_126.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_126.nii.gz"
+    },
+    {
+      "id": "BRATS_424",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_424.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_424.nii.gz"
+    },
+    {
+      "id": "BRATS_259",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_259.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_259.nii.gz"
+    },
+    {
+      "id": "BRATS_477",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_477.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_477.nii.gz"
+    },
+    {
+      "id": "BRATS_479",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_479.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_479.nii.gz"
+    },
+    {
+      "id": "BRATS_483",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_483.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_483.nii.gz"
+    },
+    {
+      "id": "BRATS_167",
+      "image": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\imagesTr\\BRATS_167.nii.gz",
+      "label": "C:\\Users\\hyeon\\Documents\\miniconda_medimg_env\\data\\brain_tumor_segmentation\\labelsTr\\BRATS_167.nii.gz"
+    }
+  ],
+  "dataset": {
+    "name": "BRATS",
+    "description": "Gliomas segmentation tumour and oedema in on brain images",
+    "modality": {
+      "0": "FLAIR",
+      "1": "T1w",
+      "2": "t1gd",
+      "3": "T2w"
+    },
+    "labels": {
+      "0": "background",
+      "1": "edema",
+      "2": "non-enhancing tumor",
+      "3": "enhancing tumour"
+    }
+  }
+}

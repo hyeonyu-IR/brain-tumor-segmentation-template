@@ -29,5 +29,13 @@ BraTS-style region Dice:
 - TC = {2,3}
 - ET = {3}
 
+4) Evaluation
+```
+python -m scripts.02_eval --config configs\baseline_3d_unet.yaml --num_vis 8
+```
 
+4) Report generation
+```
+python -m scripts.03_make_report --eval_dir outputs\baseline_3d_unet\eval --out outputs\baseline_3d_unet\report.md
+```
 
