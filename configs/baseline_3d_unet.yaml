@@ -1,0 +1,43 @@
+# configs/baseline_3d_unet.yaml
+project:
+  name: brain-tumor-segmentation-template
+  seed: 42
+  out_dir: outputs
+
+data:
+  # point to your dataset root (contains dataset.json, imagesTr, labelsTr, imagesTs)
+  data_dir: C:\Users\hyeon\Documents\miniconda_medimg_env\data\brain_tumor_segmentation
+  split_json: splits/split_seed42.json
+
+  # images are (H,W,D,4) with modality order defined in dataset.json:
+  # 0=FLAIR, 1=T1w, 2=t1gd, 3=T2w
+  in_channels: 4
+  num_classes: 4   # 0,1,2,3
+
+  patch_size: [128, 128, 128]
+  num_samples_per_volume: 2
+
+train:
+  device: cuda
+  max_epochs: 5
+  batch_size: 1
+  num_workers: 4
+
+  lr: 1.0e-4
+  weight_decay: 1.0e-5
+
+model:
+  type: unet3d
+  channels: [32, 64, 128, 256, 512]
+  strides:  [2, 2, 2, 2]
+  num_res_units: 2
+
+infer:
+  sw_roi_size: [160, 160, 160]
+  sw_batch_size: 1
+  overlap: 0.5
+
+logging:
+  log_every: 10
+  # save_best_metric: WT  # options: mean, WT, TC, ET, class1, class2, class3
+  save_best_metric: mean  # options: mean, WT, TC, ET, class1, class2, class3

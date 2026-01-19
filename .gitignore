@@ -1,0 +1,27 @@
+# data (never commit medical imaging datasets)
+data/
+**/imagesTr/
+**/imagesTs/
+**/labelsTr/
+
+# outputs
+outputs/
+runs/
+*.ckpt
+*.pth
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+.conda/
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
