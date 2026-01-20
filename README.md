@@ -21,7 +21,11 @@ python scripts/01_make_splits_from_dataset_json.py --data_dir <DATASET_ROOT>
 
 2) Train baseline:
 ```
-python -m src.train --config configs/baseline_3d_unet.yaml
+set TS=%DATE:~10,4%%DATE:~4,2%%DATE:~7,2%_%TIME:~0,2%%TIME:~3,2%%TIME:~6,2%
+set TS=%TS: =0%
+python -m src.train --config configs\baseline_3d_unet.yaml > outputs\baseline_3d_unet\run_%TS%.log 2>&1
+
+# python -m src.train --config configs/baseline_3d_unet.yaml
 ```
 3) Metrics
 BraTS-style region Dice:
@@ -37,5 +41,9 @@ python -m scripts.02_eval --config configs\baseline_3d_unet.yaml --num_vis 8
 4) Report generation
 ```
 python -m scripts.03_make_report --eval_dir outputs\baseline_3d_unet\eval --out outputs\baseline_3d_unet\report.md
+```
+5) PDF file generation
+```
+python -m scripts.05_make_runpacket
 ```
 
